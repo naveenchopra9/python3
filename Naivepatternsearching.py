@@ -1,3 +1,4 @@
+The worst case complexity of Naive algorithm is O(m(n-m+1))
 def search(txt,pat):
 	M=len(txt)
 	N=len(pat)
